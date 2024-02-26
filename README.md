@@ -20,7 +20,7 @@ Choose an option from the menu by entering the corresponding number.
 - View tasks, mark them as complete, or exit the Task Manager.
   
 ## tasks.json File
-The tasks are stored in a JSON file named tasks.json. This file contains an array of tasks, each represented as a JSON object with fields such as description, complete, created_at, start_time, and end_time. You can aswell view and edit this file to manage your tasks manually.
+The tasks are stored in a JSON file named tasks.json. This file will contain an array of tasks, each represented as a JSON object with fields such as description, complete, created_at, start_time, and end_time. You can aswell view and edit this file to manage your tasks manually.
 
 ## Dependencies
 - plyer - A Python library for accessing features commonly found on various platforms.
